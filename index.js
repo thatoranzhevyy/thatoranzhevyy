@@ -14,7 +14,12 @@ function generateProgressBar() {
 }
 
 const readme = `\
-${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+
+⏳ Year progress: ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+
+---
+
+[![Progress Bar CI](https://github.com/thatoranzhevyy/thatoranzhevyy/actions/workflows/node.js.yml/badge.svg)](https://github.com/thatoranzhevyy/thatoranzhevyy/actions/workflows/node.js.yml)
 `
 
 console.log(readme)
