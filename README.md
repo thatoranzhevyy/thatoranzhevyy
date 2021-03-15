@@ -1,2 +1,7 @@
-██████░░░░░░░░░░░░░░░░░░░░░░░░ 20.15 %
+
+⏳ Year progress: ██████░░░░░░░░░░░░░░░░░░░░░░░░ 20.16 %
+
+---
+
+[![Progress Bar CI](https://github.com/thatoranzhevyy/thatoranzhevyy/actions/workflows/node.js.yml/badge.svg)](https://github.com/thatoranzhevyy/thatoranzhevyy/actions/workflows/node.js.yml)
 
