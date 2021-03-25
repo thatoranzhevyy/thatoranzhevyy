@@ -17,7 +17,7 @@ const readme = `\
 
 ⏳ Year progress: ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-You can also watch the progress on [twitter](https://github.com/joemccann/dillinger)
+You can also watch the progress on [twitter](https://twitter.com/year_progress)
 ---
 
 [![Progress Bar CI](https://github.com/thatoranzhevyy/thatoranzhevyy/actions/workflows/node.js.yml/badge.svg)](https://github.com/thatoranzhevyy/thatoranzhevyy/actions/workflows/node.js.yml)
