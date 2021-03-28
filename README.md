@@ -1,5 +1,5 @@
 
-⏳ Year progress: ███████░░░░░░░░░░░░░░░░░░░░░░░ 23.75 %
+⏳ Year progress: ███████░░░░░░░░░░░░░░░░░░░░░░░ 23.76 %
 
 You can also watch the progress on [twitter](https://twitter.com/year_progress)
 ---
