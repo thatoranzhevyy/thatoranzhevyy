@@ -15,7 +15,7 @@ function generateProgressBar() {
 
 const readme = `\
 <div align="center">
-  <img src="/.github/img/5e51cc5933d368febc351897.svg">
+  <img src="/.github/img/5e51b3b0337309d672efd94c.gif">
 </div>
 
 ⏳ Year progress: ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
