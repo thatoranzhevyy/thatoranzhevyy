@@ -1,9 +1,9 @@
-name: Node.js CI
+name: Progress Bar CI
 
 on:
-  schedule:
-    - cron: '* * * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
   build:
