@@ -8,4 +8,5 @@ You can also watch the progress on [twitter](https://twitter.com/year_progress) 
 
 ---
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatoranzhevyy&theme=vue&hide_border=false&layout=compact)
 
